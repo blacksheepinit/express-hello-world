@@ -35,7 +35,7 @@ const html = `
       }
       html {
         font-family: neo-sans;
-        font-weight: 700;
+        font-weight: 50;
         font-size: calc(62rem / 16);
       }
       body {

@@ -31,7 +31,7 @@ const html = `
         font-family: "neo-sans";
         src: url("https://use.typekit.net/af/00ac0a/00000000000000003b9b2033/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/00ac0a/00000000000000003b9b2033/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/00ac0a/00000000000000003b9b2033/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
         font-style: normal;
-        font-weight: 700;
+        font-weight: 50;
       }
       html {
         font-family: neo-sans;
@@ -59,12 +59,11 @@ const html = `
     <h5 style="color:red;">**Disclaimer**
 
 This website is a personal hobby project, and any services or solutions offered here are provided freely without
-expectation of payment or compensation. Any work or collaboration resulting from this site is purely voluntary and
-not part of my employment with [Employer's Name].
+expectation of payment or compensation. Any work or collaboration resulting from this site is purely voluntary.
 
 If you're interested in exploring any of the services or ideas presented on this website, please feel free to
-reach out to me at [Your Email ID]. I'd be happy to discuss your requirements and see if we can work together.
-However, please note that this is a personal project, and I'm not representing my employer or any business.
+reach out to me at alberto@codesome.in. I'd be happy to discuss your requirements and see if we can work together.
+However, please note that this is a personal project, and I'm not representing my any business.
 
 **Important**
 
@@ -72,7 +71,7 @@ By accessing or using the content on this website, you acknowledge that:
 
 1. You're aware of the disclaimer above.
 2. Any collaboration or work resulting from this site is voluntary and without expectation of payment.
-3. This website is not a commercial entity or representative of [Employer's Name].
+3. This website is not a commercial entity or representative of any company.
 
 Thank you for understanding, and I look forward to connecting with like-minded individuals through my hobby
 project!</h5>

@@ -56,9 +56,7 @@ const html = `
     <section>
       Welcome to Codesome!
     </section>
-    <section>
-      This is not a business.
-    </section>
+
   </body>
 </html>
 `

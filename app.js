@@ -53,10 +53,10 @@ const html = `
     </style>
   </head>
   <body>
-    <section>
+    <h3>
       Welcome to Codesome!
-    </section>
-    <h5>**Disclaimer**
+    </h3>
+    <h5 style="color:red;">**Disclaimer**
 
 This website is a personal hobby project, and any services or solutions offered here are provided freely without
 expectation of payment or compensation. Any work or collaboration resulting from this site is purely voluntary and

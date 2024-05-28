@@ -56,25 +56,7 @@ const html = `
     <h3>
       Welcome to Codesome!
     </h3>
-    <h5 style="color:red;">**Disclaimer**
 
-This website is a personal hobby project, and any services or solutions offered here are provided freely without
-expectation of payment or compensation. Any work or collaboration resulting from this site is purely voluntary.
-
-If you're interested in exploring any of the services or ideas presented on this website, please feel free to
-reach out to me at alberto@codesome.in. I'd be happy to discuss your requirements and see if we can work together.
-However, please note that this is a personal project, and I'm not representing my any business.
-
-**Important**
-
-By accessing or using the content on this website, you acknowledge that:
-
-1. You're aware of the disclaimer above.
-2. Any collaboration or work resulting from this site is voluntary and without expectation of payment.
-3. This website is not a commercial entity or representative of any company.
-
-Thank you for understanding, and I look forward to connecting with like-minded individuals through my hobby
-project!</h5>
   </body>
 </html>
 `
